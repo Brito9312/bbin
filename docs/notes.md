@@ -10,3 +10,4 @@ Notes and usage details for bbin.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
