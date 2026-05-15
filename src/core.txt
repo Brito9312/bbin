@@ -36,3 +36,4 @@ Install any Babashka script or project with one command
 # drop an unused branch
 # clarify the control flow
 # guard against empty input
+# drop an unused branch
