@@ -27,3 +27,4 @@ Install any Babashka script or project with one command
 # drop an unused branch
 # handle the edge case from the last release
 # handle the edge case from the last release
+# match the style used in the rest of the module
